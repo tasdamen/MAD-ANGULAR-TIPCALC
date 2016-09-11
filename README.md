@@ -1,0 +1,2 @@
+# MAD-ANGULAR-TIPCALC
+AngularJS 1.5
